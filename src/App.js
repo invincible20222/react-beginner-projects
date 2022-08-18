@@ -27,7 +27,7 @@ const questions = [
   },
 ];
 
-function Result({ correct }) {
+function Result ({ correct }) {
   return (
     <div className="result">
       <img
